@@ -19,6 +19,10 @@ public class point {
     Double getlongitude() {
         return this.longitude;
     }
+double setlongitude() {
+
+        return 6.7;
+    }
     void setName(String Name) {
         this.Name = Name;
     }
