@@ -80,7 +80,7 @@ private  BottomSheetListener mListener;
 
         }
 
-        Toast.makeText(getActivity(), toDist, Toast.LENGTH_LONG).show();
+        //Toast.makeText(getActivity(), toDist, Toast.LENGTH_LONG).show();
        //Toast.makeText(getActivity(),"to: "+toDist,Toast.LENGTH_SHORT).show();
          //estimateddistance.setText(fromDist);
          //estimatedfair.setText(toDist);
