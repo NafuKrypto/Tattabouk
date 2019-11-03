@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name"> </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="planets_array">
+        <item>Mirpur1 </item>
+        <item>ZOO Road Mirpur</item>
+        <item>Mirpur Stadium</item>
+        <item>Mirpur 13</item>
+        <item>Nirjhar</item>
+        <item>Mirpur 10</item>
+        <item>Mirpur 14</item>
+        <item>Kafrul(Moinul Road)</item>
+        <item>HouseBuilding</item>
+
+
+        <item>Abdullahpur</item>
+        <item>Housebuilding</item>
+        <item>Rajlakshmi</item>
+        <item>Jasimuddin</item>
+        <item>Airport</item>
+        <item>Kaula</item>
+        <item>Khilkhet</item>
+        <item>Bissho Road</item>
+        <item>Dhaka Cantonment</item>
+        <item>Gulshan 2</item>
+        <item>Gulshan 1</item>
+        <item>Jamuna Future Park</item>
+        <item>Badda</item>
+        <item>NSU</item>
+        <item>AUST</item>
+
+
+
+
+    </string-array>
+
+
+
+</resources>
